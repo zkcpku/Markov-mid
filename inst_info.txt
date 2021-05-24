@@ -1,0 +1,128 @@
+0Acoustic Grand Piano 大钢琴（声学钢琴）
+1 Bright AcousticPiano        明亮的钢琴
+2 Electric GrandPiano             电钢琴
+3 Honky-tonkPiano               酒吧钢琴
+4 RhodesPiano               柔和的电钢琴
+5 ChorusedPiano       加合唱效果的电钢琴
+6Harpsichord       羽管键琴（拨弦古钢琴）
+7Clavichord    科拉维科特琴（击弦古钢琴）
+8Celesta                          钢片琴
+9Glockenspiel                       钟琴
+10 Musicbox                       八音盒
+11Vibraphone                      颤音琴
+12Marimba                         马林巴
+13Xylophone                         木琴
+14 TubularBells                     管钟
+15Dulcimer                        大扬琴
+16 HammondOrgan                 击杆风琴
+17 PercussiveOrgan            打击式风琴
+18 RockOrgan                    摇滚风琴
+19 ChurchOrgan                  教堂风琴
+20 ReedOrgan                    簧管风琴
+21Accordian                       手风琴
+22Harmonica                         口琴
+23 TangoAccordian             探戈手风琴
+24 Acoustic Guitar(nylon)     尼龙弦吉他
+25 Acoustic Guitar(steel)       钢弦吉他
+26 Electric Guitar(jazz)      爵士电吉他
+27 Electric Guitar(clean)     清音电吉他
+28 Electric Guitar(muted)     闷音电吉他
+29 OverdrivenGuitar   加驱动效果的电吉他
+30 DistortionGuitar   加失真效果的电吉他
+31 GuitarHarmonics              吉他和音
+32 AcousticBass        大贝司（声学贝司）
+33 ElectricBass(finger)    电贝司（指弹）
+34 Electric Bass(pick)     电贝司（拨片）
+35 FretlessBass                 无品贝司
+36 Slap Bass1                  掌击Bass 1
+37 Slap Bass2                 掌击Bass 2
+38 Synth Bass1            电子合成Bass 1
+39 Synth Bass2            电子合成Bass 2
+40Violin                          小提琴
+41Viola                           中提琴
+42Cello                           大提琴
+43Contrabass                  低音大提琴
+44 TremoloStrings         弦乐群颤音音色
+45 PizzicatoStrings       弦乐群拨弦音色
+46 OrchestralHarp                   竖琴
+47Timpani                         定音鼓
+48 String Ensemble1        弦乐合奏音色1
+49 String Ensemble2        弦乐合奏音色2
+50 Synth Strings1      合成弦乐合奏音色1
+51 Synth Strings2      合成弦乐合奏音色2
+52 ChoirAahs              人声合唱“啊”
+53 VoiceOohs                  人声“嘟”
+54 SynthVoice                   合成人声
+55 OrchestraHit           管弦乐敲击齐奏
+56Trumpet                           小号
+57Trombone                          长号
+58Tuba                              大号
+59 MutedTrumpet             加弱音器小号
+60 FrenchHorn              法国号（圆号）
+61 Brass Section 铜管组（铜管乐器合奏音色）
+62 Synth Brass1            合成铜管音色1
+63 Synth Brass2            合成铜管音色2
+64 SopranoSax               高音萨克斯风
+65 AltoSax                次中音萨克斯风
+66 TenorSax                 中音萨克斯风
+67 BaritoneSax              低音萨克斯风
+68Oboe                            双簧管
+69 EnglishHorn                    英国管
+70Bassoon                    巴松（大管）
+71Clarinet                 单簧管（黑管）
+72Piccolo                           短笛
+73Flute                              长笛
+74Recorder                          竖笛
+75 PanFlute                         排箫
+76 BottleBlow              吹瓶
+77Shakuhachi                    日本尺八
+78Whistle                         口哨声
+79Ocarina                        奥卡雷那
+80 Lead 1(square)       合成主音1（方波）
+81 Lead 2(sawtooth)   合成主音2（锯齿波）
+82 Lead 3 (caliopelead)        合成主音3
+83 Lead 4 (chifflead)          合成主音4
+84 Lead 5(charang)             合成主音5
+85 Lead 6(voice)        合成主音6（人声）
+86 Lead 7(fifths)   合成主音7（平行五度）
+87 Lead 8 (bass+lead)合成主音8（贝司加主音）
+88 Pad 1 (newage)     合成音色1（新世纪）
+89 Pad 2(warm)         合成音色2 （温暖）
+90 Pad 3(polysynth)             合成音色3
+91 Pad 4(choir)        合成音色4 （合唱）
+92 Pad 5(bowed)                合成音色5
+93 Pad 6(metallic)   合成音色6 （金属声）
+94 Pad 7(halo)         合成音色7 （光环）
+95 Pad 8(sweep)                合成音色8
+96 FX 1(rain)            合成效果 1 雨声
+97 FX 2(soundtrack)      合成效果 2 音轨
+98 FX 3(crystal)         合成效果 3 水晶
+99 FX 4(atmosphere)      合成效果 4 大气
+100 FX 5(brightness)     合成效果 5 明亮
+101 FX 6(goblins)        合成效果 6 鬼怪
+102 FX 7(echoes)         合成效果 7 回声
+103 FX 8(sci-fi)         合成效果 8 科幻
+104Sitar                   西塔尔（印度）
+105Banjo                   班卓琴（美洲）
+106Shamisen                三昧线（日本）
+107Koto                  十三弦筝（日本）
+108Kalimba                        卡林巴
+109Bagpipe                          风笛
+110Fiddle                       民族提琴
+111Shanai                           山奈
+112 TinkleBell                    叮当铃
+113Agogo                   [中文名称暂缺](某种打击乐器)
+114 SteelDrums                      钢鼓
+115Woodblock                        木鱼
+116 TaikoDrum                       太鼓
+117 MelodicTom                    通通鼓
+118 SynthDrum                     合成鼓
+119 ReverseCymbal                   铜钹
+120 Guitar FretNoise        吉他换把杂音
+121 BreathNoise                   呼吸声
+122Seashore                       海浪声
+123 BirdTweet                       鸟鸣
+124 TelephoneRing                 电话铃
+125Helicopter                     直升机
+126Applause                       鼓掌声
+127 Gunshot
